@@ -7,4 +7,4 @@
 
     
 ## Link for APK: 
-<a href="https://github.com/dvghule121/ChatMe/releases/download/chatme/app-debug.apk" > <img src="https://img.shields.io/badge/apk-ChatMe-green" alt="apk"> </a><br><br>
+<a href="https://github.com/dvghule121/MugsAssignment/blob/main/app-debug.apk" > <img src="https://img.shields.io/badge/apk-MugsAssignment-green" alt="apk"> </a><br><br>
