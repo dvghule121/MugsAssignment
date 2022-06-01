@@ -27,12 +27,12 @@
 
                 <TextView
                     android:id="@+id/qty"
+                    style="@style/main_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="48dp"
                     android:fontFamily="@font/roboto_medium"
                     android:text="Register"
-                    android:textColor="#000000"
                     android:textSize="40dp"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
@@ -85,10 +85,10 @@
 
                 <TextView
                     android:id="@+id/textView"
+                    style="@style/main_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="have account ?"
-                    android:textColor="#5A5D6E"
                     android:textSize="14sp"
                     app:layout_constraintBottom_toBottomOf="@+id/to_register"
                     app:layout_constraintStart_toStartOf="@+id/register_btn"

@@ -12,7 +12,7 @@ class Dataset {
         val array =  array.toMutableList()
         for (i in 0..no_of_days){
 
-          array.add( Entry(i.toFloat(), Random.nextInt(5,8).toFloat(),"jan"))
+          array.add( Entry(i.toFloat(), Random.nextInt(5,8).toFloat()))
 
         }
         return array
