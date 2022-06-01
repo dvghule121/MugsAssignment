@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079860760100",
+    "project_id": "mugsassignment-778e0",
+    "storage_bucket": "mugsassignment-778e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079860760100:android:44058f0a0d9de91728d2b1",
+        "android_client_info": {
+          "package_name": "com.example.mugs_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079860760100-bagukgms7mehq4095ann30cod7ohepvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL76p-C6BaPvkoOFKeaaGU-b9ctU-xNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079860760100-bagukgms7mehq4095ann30cod7ohepvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
